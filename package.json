@@ -13,9 +13,7 @@
     "nuxt",
     "supabase"
   ],
-  {
-    "type": "module"
-  },
+  "type": "module",
   "types": "index.d.ts",
   "files": [
     "index.js",
